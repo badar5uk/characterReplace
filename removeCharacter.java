@@ -1,4 +1,4 @@
-public class removeCharacter {
+public class RemoveCharacter {
     public static void removeCharacter(){
         String myWord = "Welcome to my code, I hope you like it";
         String characters = myWord.replace('o',' ');
